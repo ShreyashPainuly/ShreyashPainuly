@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>     DSA With C++ And Full Stack Development<br><br>🌐 I’m looking to collaborate on:<br>     Full Stack Projects<br><br>🌱 I’m currently learning:<br>     Advanced DP Concepts And Next.JS<br><br>💬 Ask me about:<br>     DSA, HTML, CSS, TailWind, JS, Node.JS<br><br>🔍 Fun fact:<br>     I Love Travelling✈️<br>     <br>
+🔭 I’m currently working on:<br>     DSA With C++ And Full Stack Development<br><br>🌐 I’m looking to collaborate on:<br>     Full Stack Projects<br><br>🌱 I’m currently learning:<br>     Advanced DP Concepts And Devops<br><br>💬 Ask me about:<br>     DSA, HTML, CSS, TailWind, JS, Node.JS<br><br>🔍 Fun fact:<br>     I Love Travelling✈️<br>     <br>
 
 
 ## 🌐 Socials:
