@@ -88,9 +88,18 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyashPainuly&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![](https://github-readme-stats.vercel.app/api?username=ShreyashPainuly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyashPainuly&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashPainuly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashPainuly&hide_border=true&layout=compact" align="left" />  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShreyashPainuly&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShreyashPainuly&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>  
 
