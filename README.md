@@ -22,7 +22,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭  
 ### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -79,18 +79,18 @@
 <br/>  
 
 
-## Github Stats  
+## 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 ![](https://github-readme-stats.vercel.app/api?username=ShreyashPainuly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyashPainuly&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashPainuly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 𝐆𝐢𝐭𝐡𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
 ![](https://github-profile-trophy.vercel.app/?username=ShreyashPainuly&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+### 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨
 ![](https://github-contributor-stats.vercel.app/api?username=ShreyashPainuly&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>  
