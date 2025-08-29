@@ -3,16 +3,15 @@
 </div>  
   
 
-### <div align="center">I'm Shreyash, a passionate FullStack Developer transforming ideas into robust digital solutions. I craft innovative web and mobile applications that solve real-world problems.</div>  
+### <div align="center">𝐈'𝐦 𝐒𝐡𝐫𝐞𝐲𝐚𝐬𝐡, 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐫𝐨𝐛𝐮𝐬𝐭 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬. 𝐈 𝐜𝐫𝐚𝐟𝐭 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐧𝐝 𝐦𝐨𝐛𝐢𝐥𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐚𝐭 𝐬𝐨𝐥𝐯𝐞 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬.</div>  
   
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎  
+## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
   
 
 - 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
   
   
-
 - 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎  
   
 
